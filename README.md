@@ -2,7 +2,7 @@
 
 Full-stack crisis market dashboard built from the PRD:
 
-- eact + Vite frontend with dashboard, event detail, search, chat, and history pages.
+- React + Vite frontend with dashboard, event detail, search, chat, and history pages.
 - FastAPI backend with news ingestion, AI summarization, sector prediction, search, and chatbot endpoints.
 - Supabase-ready schema and REST repository.
 - Local demo mode that runs without API keys or a database.
